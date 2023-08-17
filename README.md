@@ -10,3 +10,12 @@ link is : "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-pr
 brace yourself for a thrilling step-by-step tutorial leading up to your very first pull request. 
 🎉 Let the magic of open source amplify your skills, ignite your network, and supercharge your career! 💼🔥
 ![Screenshot 2023-08-16 163604](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/8b1477da-025d-4b78-bf33-a4b2d6c1527c)
+
+
+Day-2
+
+Hey there! 🚀 Today, I embarked on an exciting journey and rolled up my sleeves to create a fantastic website! 🌐 Using the dynamic trio of HTML, CSS, and JavaScript, along with a touch of Bootstrap magic, I've whipped up a cool online space called "LosAngles Montanies." 🏞️ Can't wait to showcase this masterpiece on GitHub once it's ready for the spotlight! But hey, no rush for now – I'm about to treat you to a sneak peek of what I've crafted so far. 😎 So, here's the web page I've designed, complete with stunning visuals and interactivity, all brought to life through code wizardry! ⚡
+
+
+
+I've been bitten by the React bug too, and I'm gearing up to recreate this awesomeness using React. But for now, let's bask in the glory of what I've accomplished with my trusty trio. 🎉 Stay tuned, as the next stop is GitHub town! 💻🛤️
