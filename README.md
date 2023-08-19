@@ -28,3 +28,8 @@ Day-3
 Hey there! 🌟 Today was quite a productive day as I delved into some fascinating Java topics, including servlets and JDBC. 🚀 I learned how to establish a seamless connection between a database and Java, which is like connecting puzzle pieces to form a bigger picture! 🧩 And guess what? I even explored the realm of frontend development using React, adding a cool user interface to my Java applications. 🌐 The learning journey was a mix of tutorials, not a mountain of them, but enough to feel like a well-rounded explorer. 🌄 Telsuko's YouTube channel was my go-to, as their tutorials clicked well with me. 📺 I sprinkled practical knowledge on top of theoretical insights, giving me that "aha" moment when things really clicked! 💡 Here's to more exciting learning adventures ahead! 🚀📚💡
 
 Embarking on a Java learning adventure—mastering servlets, JDBC, and even adding a splash of React frontend flair, all while riding the Telsuko tutorial wave! 🚀🌊
+
+
+Day-4
+
+Acuta
