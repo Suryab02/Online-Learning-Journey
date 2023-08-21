@@ -32,7 +32,9 @@ Embarking on a Java learning adventure—mastering servlets, JDBC, and even addi
 
 Day-4
 
-Acuta
+🌟 Today has been an exhilarating journey through the realms of coding! I delved into the captivating world of LeetCode challenges, where my mind danced with algorithms like a virtuoso pianist on a grand stage. 😎💻
+
+But that's not all! I also embarked on a quest into the mystical lands of Data Structures and Algorithms (DSA). 🧙‍♂️ My focus was on the ancient art of array manipulation and crafting. 🛠️ With each line of code, I felt like an architect, shaping arrays like a sculptor shapes clay into magnificent structures. 🏛️💬
 
 
 Day-5
@@ -46,4 +48,20 @@ But wait, there's more! Update was the next stop on my MongoDB journey. 💡 Ima
 Last but not least, the delete operation. 🗑️ It might sound sad, but it's actually quite liberating! It's like clearing out the old to make way for the new. Saying goodbye to a document was a bit like bidding farewell to an old friend, but it also opened up space for fresh adventures and possibilities.
 
 So there you have it – my day with MongoDB, full of emoji-powered excitement and discovery. It's like having a playground where I can create, explore, and shape my data like a virtual sculptor. 🎨 Can't wait to see what other emoji-filled escapades await on my coding journey! 🌟
+
+Day-6
+
+🌟 Today has been an exciting adventure in the world of coding! I embarked on a journey through LeetCode challenges, tackling problems that revolved around the intriguing realms of linked lists and the enchanting dance of binary search trees. 🌳✨
+
+🔗🌐 As I delved into the mysteries of linked lists, I felt like a digital archaeologist uncovering hidden treasures of data connections. The thrill of maneuvering through nodes, stitching together intricate pathways, and unraveling the secrets these structures held was truly exhilarating! 🕵️‍♂️💼
+
+🌿🔍 And then, the enchanting forest of binary search trees beckoned! 🌲🍃 The art of arranging nodes in perfect harmony, where every choice mattered in maintaining the delicate balance of order, was like tending to a digital garden. 🌱🌼 The dance of the branches and leaves, guided by the rhythm of "less than" and "greater than," was a mesmerizing spectacle. 🍂💃
+
+💡 Armed with newfound knowledge and a determined spirit, I took on LeetCode challenges that tested my grasp of these captivating concepts. Each problem was like a puzzle piece, fitting snugly into the grand picture of coding mastery. 🧩🖼️ As I witnessed my solutions fall into place, I couldn't help but feel a sense of accomplishment and growth. 🌱🚀
+
+So here's to a day well spent, in the company of linked lists and binary search trees, forging a path toward greater coding prowess! 🚴‍♂️🌟
+
+
+![Screenshot 2023-08-21 203631](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/e192c8d3-760b-4dd9-82e3-55fa7ce73921)
+
 
