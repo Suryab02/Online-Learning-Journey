@@ -146,4 +146,21 @@ then you have to multiple with 2 now the easy method is to map through the array
 
 you get output [2,4,6]
 
+# Day-13 useEffect()
+
+useEffect in React with a fun twist! 🪄 Imagine you're a caretaker of a digital garden, and your job is to water the plants whenever something special happens. Well, that's exactly what useEffect does – it's like having a magical watering can for your React components!
+
+You see, each time you use useEffect, you're telling the garden (your component) to watch out for a certain condition or event. Just like a magical plant whisperer, you're saying, "Hey, if this specific thing happens – like a raindrop falls or the sun comes out – go ahead and do something!"
+
+like this 
+![Screenshot 2023-08-28 192303](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/23d7bc50-4010-454b-ae44-89c829d6a0b2)
+it will render only once and it will do again when it is rendered
+why we empty array ? So, the empty list is like saying, "Hey robot, just do your task when you're born and then take a rest. You don't need to worry about anything changing later." It keeps things simple when we only want something to happen once at the beginning.
+
+![Screenshot 2023-08-28 192439](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/56f20d55-db35-4312-bd21-0d2bf44dd9ef)
+in the above screen shot you can see i have created a function inside use effect i am teeling that run this function and i have given function to fetch data into sjon format so that i can render in the web application and storing in use state 
+
+![Screenshot 2023-08-28 192451](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/eb89c52c-eed0-4751-9288-d1e41c8f6e22)
+we preventDefault because the  when you use preventDefault() with something like a button click, you're making sure that the button doesn't rush off and do its regular thing right away. Instead, you're giving yourself a chance to decide what should happen next – just like you deciding whether to take a cookie at the party or listen to the party organizer first.
+
 
