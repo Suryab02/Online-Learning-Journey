@@ -163,26 +163,6 @@ in the above screen shot you can see i have created a function inside use effect
 ![Screenshot 2023-08-28 192451](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/eb89c52c-eed0-4751-9288-d1e41c8f6e22)
 we preventDefault because the  when you use preventDefault() with something like a button click, you're making sure that the button doesn't rush off and do its regular thing right away. Instead, you're giving yourself a chance to decide what should happen next – just like you deciding whether to take a cookie at the party or listen to the party organizer first.
 
-simple example :
-import React, { useState, useEffect } from "react";
+simple useeffect example:
 
-function ShowWatcher() {
-  const [showTime, setShowTime] = useState(false);
-
-  useEffect(() => {
-    if (showTime) {
-      console.log("Time to watch the show!");
-    }
-  }, [showTime]);
-
-  const startShow = () => {
-    setShowTime(true);
-  };
-
-  return (
-    <div>
-      <p>Is it show time? {showTime ? "Yes" : "No"}</p>
-      <button onClick={startShow}>Start the show</button>
-    </div>
-  );
-}
+![Screenshot 2023-08-28 194756](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/20861414-92bf-4968-91e3-fb58437bcfa2)
