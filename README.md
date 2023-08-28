@@ -111,7 +111,7 @@ ESLint: The Intergalactic Linter 🌌
 
 Meet ESLint, the vigilant guardian of code quality. Think of it as your spaceship's onboard inspector. It scans your code for any signs of trouble, like space debris that could cause bugs or crashes. ESLint points out these issues with flashing lights and beeping alerts, guiding you to make sure your code is safe and ready for any coding adventure.
 
-# Day-12
+# Day-12 useState()
  
 Today's coding adventure was all about useState in React! 🎉 Imagine you're a wizard summoning magical creatures into your digital realm. With the wave of your coding wand, you conjure the useState spell, creating these enchanting little creatures called "state variables." These creatures hold onto special pieces of information you want to use in your spells (uh, I mean components). And the best part is, you can talk to them and change their information anytime you want! It's like having a bunch of playful pets that help you keep track of important stuff while you sprinkle your code with a touch of coding fun and flair! 🪄🐉✨![Screenshot 2023-08-28 190759](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/fa7a8713-e1bc-4be1-8f2d-dbd8e5f2f8ec)
 
