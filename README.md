@@ -101,8 +101,49 @@ Imagine asking a question and getting an instant answer, just like with ChatGPT.
 So, cheers to the thrilling world of AI-driven web development and crafting virtual companions that can chat up a storm! 🌐🗣️ Who knows, your chatbot might just be the next digital superstar! 🌟🤖 
 
 # Day-11
+Sure thing! 🌟 Imagine you're the captain of a spaceship called the "Code Voyager," and you're about to embark on an adventure into the vast galaxy of coding styles. But fear not, because you have two trusty companions on board: Prettier, the Cosmic Formatter, and ESLint, the Intergalactic Linter!
 
+Prettier: The Cosmic Formatter 🚀
+
+Prettier is like the spaceship's interior designer. It takes your messy code and turns it into a stunning masterpiece. Picture this: as you type away, Prettier sneaks in, arranging everything perfectly. Your code becomes as neat as a tidy space station. And the best part? You don't even have to tell Prettier what to do – it knows exactly how to make your code look its best.
+
+ESLint: The Intergalactic Linter 🌌
+
+Meet ESLint, the vigilant guardian of code quality. Think of it as your spaceship's onboard inspector. It scans your code for any signs of trouble, like space debris that could cause bugs or crashes. ESLint points out these issues with flashing lights and beeping alerts, guiding you to make sure your code is safe and ready for any coding adventure.
 
 # Day-12
+ 
+Today's coding adventure was all about useState in React! 🎉 Imagine you're a wizard summoning magical creatures into your digital realm. With the wave of your coding wand, you conjure the useState spell, creating these enchanting little creatures called "state variables." These creatures hold onto special pieces of information you want to use in your spells (uh, I mean components). And the best part is, you can talk to them and change their information anytime you want! It's like having a bunch of playful pets that help you keep track of important stuff while you sprinkle your code with a touch of coding fun and flair! 🪄🐉✨![Screenshot 2023-08-28 190759](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/fa7a8713-e1bc-4be1-8f2d-dbd8e5f2f8ec)
 
+![Screenshot 2023-08-28 190846](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/600cf6f5-d1b8-445a-9247-a34d3dc72a7d)
+
+like that you can create a use state and store values and use for your applications.
+
+I have also learned map() in react check this
+
+you're on a treasure hunt through a magical forest of data, and you've got a trusty map called map() in your React toolkit. This map helps you explore arrays (lists) of information, like a collection of sparkling gems from an API.
+
+Imagine you have a chest full of shiny gems (data) that you've fetched from an ancient treasure trove (API). Now, you want to inspect each gem one by one. Here's where your map() spell comes in. You wave your wand (well, your code) and chant, "Map-ius Explorium!" This spell takes each gem (item) from the chest (array), lets you examine it, and then moves on to the next one.
+
+For example, let's say you're holding a bunch of magical crystals (data objects) with names. You use the map() spell to summon a magical magnifying glass for each crystal. As you loop through each crystal, the magnifying glass (your code) lets you see its name and other details. You can even do things like create sparkles around the crystals or sort them by their magical properties. And just like that, you've turned a pile of gems into a dazzling showcase of information using the power of map()!
+
+So there you have it! map() is like your personal assistant that helps you go through a bunch of treasures (data items) one by one, letting you cast spells (write code) on each of them. With a little magic and the map() spell, you're the master of arrays and APIs, exploring and making use of the data you find on your coding quest! 🧙‍♂️💎🌳
   
+this is the trusty map ![Screenshot 2023-08-28 191343](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/3868e033-f713-4b71-956e-8cdd1d4ee795)
+
+this is the shiny gems (data) 
+![Screenshot 2023-08-28 191435](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/564708c0-091e-4280-9d83-938dca3f523a)
+
+this is the function you get all the data from the arrays like json format and you can use 
+
+![Screenshot 2023-08-28 191537](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/9c448bc6-bdfa-40d3-a3ff-8cc4d7d36c83)
+
+also a simple example is 
+you declared as 
+cont numbers = [1,2,3]
+then you have to multiple with 2 now the easy method is to map through the array 
+{numbers.map(num => num * 2)}
+
+you get output [2,4,6]
+
+
