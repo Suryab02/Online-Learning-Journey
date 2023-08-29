@@ -1,4 +1,4 @@
-# Online-Learning-Journey
+![Screenshot 2023-08-29 183612](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/51689d54-e2c8-4bbc-a9a1-6de6e155466a)# Online-Learning-Journey
 Exploring Every Day 🌱: My Ongoing Online Learning Adventure! 🚀
 
 # Day-1
@@ -180,4 +180,28 @@ now we see if we give nothing in second arugemnt it will change every time when 
 
 ![Screenshot 2023-08-29 104141](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/725631f8-849f-456f-b3e0-63603ad5a633)
 
+# React Router 
+ Here i have created a basic understand of how the link and routing works like when we click on something how other page will open without realoding like
+ "✨ When we click a link, it's like a magical portal! Instead of reloading the whole page, the link whispers to the browser, "Hey, take me to this cool place!" 🚀🔗 Then, like a smooth navigator, the browser fetches just the new stuff needed and updates the page, giving us a seamless journey without any interruption! 🌈🌟"
+
+![Screenshot 2023-08-29 183612](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/c5da4f23-1d17-4c87-941a-0fbff4407d40)
+
+![Screenshot 2023-08-29 183619](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/021bb6e1-e521-46e4-ae30-e76d37ddbeb4)
+
+# useParams()
+Absolutely! 🕵️‍♂️🔍 Imagine your website as a detective who can extract secret clues from the website address 🕵️‍♀️🌐. With the superpower called useParams(), your website can listen to the whispers of the URL and pull out these special codes or arguments that were hidden there 🎩📜. Then, like a mastermind, your website can showcase these codes, turning them into something meaningful or exciting for your visitors to see or interact with 🎉👀. It's like turning a mysterious address into a treasure map and revealing the hidden gems to your users without them ever knowing the behind-the-scenes magic ✨🗺️!
+here is the example:
+
+this is where we can see using params
+![Screenshot 2023-08-29 184218](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/5302c6f8-0bde-4187-9e12-c877414deec2)
+
+this is the dynamic way of using a url 
+![Screenshot 2023-08-29 184234](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/3765d5f0-7192-4a02-af70-1296d92d5dfd)
+
+this we can see we get the id and you can also check i react dev tools also
+
+![Screenshot 2023-08-29 184245](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/82c7fd8a-c41d-459a-8a78-70de95f2bc45)
+
+in react dev tools
+![Screenshot 2023-08-29 184443](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/799d995d-469b-46b1-a06d-a8d0c261a683)
 
