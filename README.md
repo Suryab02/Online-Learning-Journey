@@ -166,3 +166,18 @@ we preventDefault because the  when you use preventDefault() with something like
 simple useeffect example:
 
 ![Screenshot 2023-08-28 194756](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/20861414-92bf-4968-91e3-fb58437bcfa2)
+
+# Day-14
+
+Here i am confused of useeffect so i have created some examples to tackle that like 
+this is the code where we keep a two arugemnt in useeffect a sepecific like "we are telling that only if count is changed then only u change the header on the wedpage remaining button dont change"
+
+![Screenshot 2023-08-29 104107](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/40b43aa3-b5e0-41c6-ba0f-034ce01b3f7a)
+
+![Screenshot 2023-08-29 104120](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/69009cdd-051c-401d-b424-78401eb703c8)
+now we see if we give nothing in second arugemnt it will change every time when you click on something like this
+![Screenshot 2023-08-29 104131](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/7e5dc82e-3979-4fe7-8549-a5edeb5b15ef)
+
+![Screenshot 2023-08-29 104141](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/725631f8-849f-456f-b3e0-63603ad5a633)
+
+
