@@ -1,4 +1,4 @@
-![Screenshot 2023-08-29 183612](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/51689d54-e2c8-4bbc-a9a1-6de6e155466a)# Online-Learning-Journey
+# Online-Learning-Journey
 Exploring Every Day 🌱: My Ongoing Online Learning Adventure! 🚀
 
 # Day-1
