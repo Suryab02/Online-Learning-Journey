@@ -1,4 +1,4 @@
-# Online-Learning-Journey
+![1](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/eb76c316-87eb-4cde-819d-4b2667ef1fb9)# Online-Learning-Journey
 Exploring Every Day 🌱: My Ongoing Online Learning Adventure! 🚀
 
 # Day-1
@@ -208,4 +208,17 @@ in react dev tools
 # Day - 15  React Query
 
 I think it is very cool to use react query compare to useeffect where i guess use effect is complicated like if we fetch api we need to aysnc and awit and like that it will run every time coming to query it is very use useful like we can save the previous fetch in cache and again when we need it will fetch from cache and it is so much cool 
+SEE this 
+![1](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/da0bce61-ed0b-412d-8702-9dcbbb8eeb6d)
+Above we can see i imported QueryCLinet and gave stale time and cache time like infinity(it will store once you fetch and again if you want it will fetch from cache) or time like 10 min in milli seconds and again after that time it will fetch again until then it will fetch from cache. 
+
+![fetchquery](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/2fe78aaa-3d3e-45dd-a3c9-f5ea374fcb0c)
+
+we have created query and fetch api it is more easy compare to useeffect and above we fetch from apiRes and we check if apiRes status is ok or not then we return apiRes.json();
+
+
+![finalquery](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/e8df2e93-3a57-4801-bb94-d34aa8c3605f)
+
+above we use useQury it takes parameters so we give the id and details an if this not there we feth from fectPet then it is a promise we dont need to write a await there and we get data and then we can return 
+
 
