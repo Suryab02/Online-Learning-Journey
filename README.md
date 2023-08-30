@@ -1,6 +1,6 @@
 ![1](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/eb76c316-87eb-4cde-819d-4b2667ef1fb9)# Online-Learning-Journey
 Exploring Every Day 🌱: My Ongoing Online Learning Adventure! 🚀
-
+(It is for my understanding and my progress)
 # Day-1
 This first day i learned like how you open - source and i also contributed to that project and learned and how can we contribute 
 i went on freecode camp and i have got a blog that "How to Contribute to Open Source Projects – A Beginner's Guide":
