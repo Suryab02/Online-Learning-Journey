@@ -205,3 +205,7 @@ this we can see we get the id and you can also check i react dev tools also
 in react dev tools
 ![Screenshot 2023-08-29 184443](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/799d995d-469b-46b1-a06d-a8d0c261a683)
 
+# Day - 15  React Query
+
+I think it is very cool to use react query compare to useeffect where i guess use effect is complicated like if we fetch api we need to aysnc and awit and like that it will run every time coming to query it is very use useful like we can save the previous fetch in cache and again when we need it will fetch from cache and it is so much cool 
+
