@@ -221,4 +221,11 @@ we have created query and fetch api it is more easy compare to useeffect and abo
 
 above we use useQury it takes parameters so we give the id and details an if this not there we feth from fectPet then it is a promise we dont need to write a await there and we get data and then we can return 
 
+# Day-16 React query in place of Useeffect:
+
+![query-imp](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/ad4e9d82-f508-4cb6-9152-9450600062fc)
+In Above code we can see we want to fetch data so we using react query and in apiRes and return in json format and exports
+
+![react-query2](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/98a917c9-95e5-4dbb-8cd0-775e64ba2b58)
+In above code we imported useQuery and store in results using query this will make easy fro caching like above.
 
