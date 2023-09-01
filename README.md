@@ -229,3 +229,12 @@ In Above code we can see we want to fetch data so we using react query and in ap
 ![react-query2](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/98a917c9-95e5-4dbb-8cd0-775e64ba2b58)
 In above code we imported useQuery and store in results using query this will make easy fro caching like above.
 
+# Day - 16 
+
+Today, I delved into the fascinating world of error boundaries and modals in React! 🚀 Error boundaries are like safety nets for our React applications, helping to catch and gracefully handle errors that might otherwise crash our entire app. They provide a way to enclose a section of our component tree, acting as a shield against unexpected errors that can occur during rendering, lifecycle methods, or event handlers. With error boundaries, I can ensure that my app remains stable and user-friendly even when things go awry. 😅
+
+On the other hand, modals are like little pop-up windows that allow me to display content or actions without navigating to a new page or disrupting the current user flow. They're perfect for displaying alerts, forms, or any kind of additional information that shouldn't clutter the main interface. Learning how to create and manage modals in React opened up a world of possibilities for creating cleaner and more interactive user interfaces. 🌟
+
+I'm excited to continue exploring these concepts and see how error boundaries and modals can enhance the user experience in my React applications. 😄👩‍💻
+
+
