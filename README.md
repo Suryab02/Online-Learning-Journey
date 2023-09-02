@@ -237,5 +237,8 @@ On the other hand, modals are like little pop-up windows that allow me to displa
 
 I'm excited to continue exploring these concepts and see how error boundaries and modals can enhance the user experience in my React applications. 😄👩‍💻
 
-
+# Day - 17
+ Today i have started a project Chat App using react and firebase i have done the login page and register page 
+ yet to done the remaining part
+![Screenshot 2023-09-02 221520](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/e852495e-3e3e-44b2-9276-f6eb12dabd50)
 
