@@ -238,3 +238,4 @@ On the other hand, modals are like little pop-up windows that allow me to displa
 I'm excited to continue exploring these concepts and see how error boundaries and modals can enhance the user experience in my React applications. 😄👩‍💻
 
 
+
