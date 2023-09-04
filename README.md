@@ -242,4 +242,7 @@ I'm excited to continue exploring these concepts and see how error boundaries an
  yet to done the remaining part
 ![Screenshot 2023-09-02 221520](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/e852495e-3e3e-44b2-9276-f6eb12dabd50)
 
-#day -18
+#Day-18
+today i haved created a google firebase accout and added auth and storage and database for my chat app
+![Screenshot 2023-09-04 151238](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/107be99c-ac0a-4f69-810e-bda07e3b83fb)
+
