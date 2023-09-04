@@ -246,3 +246,14 @@ I'm excited to continue exploring these concepts and see how error boundaries an
 today i haved created a google firebase accout and added auth and storage and database for my chat app
 ![Screenshot 2023-09-04 151238](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/107be99c-ac0a-4f69-810e-bda07e3b83fb)
 
+#Day-19
+Today i have learned how to create dark mode in next js using next-themes first i installed themes and 
+In the _app.js file, wrap your component with the ThemeProvider from next-themes. Set the attribute prop to class to allow the library to apply the theme to the HTML element.
+We can add some global styles to global.css. Here we set the background of the body to white in light mode and dark gray in dark mode.
+We use the useTheme hook to know what the current theme is, change the current theme using the setTheme method, and the system theme.
+Initially, we set the theme to the system theme.
+The onclick event on the button toggles between the themes. We add some individual class using the dark: variant for the button.
+We add the toggle button to index.tsx.
+you can follow "https://www.linkedin.com/pulse/implement-dark-mode-tailwindcss-nextjs13-app-5-simple-lucas-los-arcos" or
+"https://dev.to/chinmaymhatre/implementing-dark-mode-in-nextjs-with-tailwind-css-and-next-themes-a4e"
+you can get the output
