@@ -257,3 +257,6 @@ We add the toggle button to index.tsx.
 you can follow "https://www.linkedin.com/pulse/implement-dark-mode-tailwindcss-nextjs13-app-5-simple-lucas-los-arcos" or
 "https://dev.to/chinmaymhatre/implementing-dark-mode-in-nextjs-with-tailwind-css-and-next-themes-a4e"
 you can get the output
+
+#Day-20
+
