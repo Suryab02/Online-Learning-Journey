@@ -259,4 +259,9 @@ you can follow "https://www.linkedin.com/pulse/implement-dark-mode-tailwindcss-n
 you can get the output
 
 #Day-20
+Today i have learned about NextJs data fecthing like same as react but it is more easy 
+
+![next-js datafecthing](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/baeaf12d-7e57-4f65-a8c3-77b71754b56f)
+
+you can see first we need fetch the api and then it return a promise so we use await for that we async the function and get the data now we got the data now how to keep in the screen like your webisite we can store in a varible with json format and get the data like that in next js we use interface and create if you want a selected variable and link the interface to the constant you are assigned to json and then we can map the data i the users api and see every name should be diifferent so we give key and then we show the users name
 
