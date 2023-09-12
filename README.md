@@ -242,11 +242,11 @@ I'm excited to continue exploring these concepts and see how error boundaries an
  yet to done the remaining part
 ![Screenshot 2023-09-02 221520](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/e852495e-3e3e-44b2-9276-f6eb12dabd50)
 
-#Day-18
+# Day-18
 today i haved created a google firebase accout and added auth and storage and database for my chat app
 ![Screenshot 2023-09-04 151238](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/107be99c-ac0a-4f69-810e-bda07e3b83fb)
 
-#Day-19
+# Day-19
 Today i have learned how to create dark mode in next js using next-themes first i installed themes and 
 In the _app.js file, wrap your component with the ThemeProvider from next-themes. Set the attribute prop to class to allow the library to apply the theme to the HTML element.
 We can add some global styles to global.css. Here we set the background of the body to white in light mode and dark gray in dark mode.
@@ -258,7 +258,7 @@ you can follow "https://www.linkedin.com/pulse/implement-dark-mode-tailwindcss-n
 "https://dev.to/chinmaymhatre/implementing-dark-mode-in-nextjs-with-tailwind-css-and-next-themes-a4e"
 you can get the output
 
-#Day-20
+# Day-20
 Today i have learned about NextJs data fecthing like same as react but it is more easy 
 
 ![next-js datafecthing](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/baeaf12d-7e57-4f65-a8c3-77b71754b56f)
