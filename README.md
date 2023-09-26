@@ -271,3 +271,7 @@ you can add time also like revalidate for this time then it will revlaidate ever
 ![Screenshot 2023-09-12 150429](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/db5f5ecb-e7ef-4ca1-86c2-0d51fcd14336)
 Rendering types
 ![Screenshot 2023-09-12 150940](https://github.com/Suryab02/Online-Learning-Journey/assets/115476816/dd500128-37c5-4e16-b938-584fe3c6983a)
+
+# Day-21
+
+Today like i am learning about node js and how the modules works and export and import purely node 
