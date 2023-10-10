@@ -275,3 +275,12 @@ Rendering types
 # Day-21
 
 Today like i am learning about node js and how the modules works and export and import purely node 
+
+# Day-22
+
+ Todya i learned about the data structures like array , list and linked list how the search is happending and like that i did some leetcode on that and solve
+
+
+# Day-23
+
+
