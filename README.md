@@ -278,7 +278,10 @@ Today like i am learning about node js and how the modules works and export and 
 
 # Day-22
 
- Todya i learned about the data structures like array , list and linked list how the search is happending and like that i did some leetcode on that and solve
+Today, I learned about different data structures like arrays, lists, and linked lists. It was fascinating to understand how searching works in these data structures.
+In an array, searching is like looking for something in a neatly organized line-up. Since all the elements are stored in consecutive memory locations, I can quickly find what I need by knowing its position.
+A list is similar, but it's like searching for items in a bag. It's not as organized as an array, so I might need to go through each item one by one until I find what I'm looking for.
+Linked lists, on the other hand, are like a chain of clues. Each element points to the next one, so I follow the trail until I reach the desired item.
 
 
 # Day-23
