@@ -285,5 +285,10 @@ Linked lists, on the other hand, are like a chain of clues. Each element points 
 
 
 # Day-23
-
+Today, I learned about some fundamental data structures like queues, stacks, and binary trees. It was fascinating to understand how these data structures work and how they can be used in various algorithms and problem-solving scenarios.
+Queues are like waiting lines, where the first person who enters is the first to leave. It's a linear data structure with two main operations: enqueue (adding an element to the back) and dequeue (removing an element from the front). This concept helps in managing tasks in a first-in, first-out (FIFO) manner.
+Stacks, on the other hand, are like a stack of plates. The last plate you put on the stack is the first one you take off. It's also a linear data structure but operates on a last-in, first-out (LIFO) principle. You can push elements onto the stack and pop them off the top.
+Binary trees are hierarchical data structures that consist of nodes connected by edges. Each node has at most two children, typically referred to as the left child and the right child. This structure is widely used in searching, sorting, and organizing data efficiently.
+I applied what I learned by tackling some LeetCode problems related to these data structures. It was challenging but rewarding to see how these concepts could be used to solve real-world problems.
+In summary, today's exploration of queues, stacks, and binary trees deepened my understanding of fundamental data structures and how they play a crucial role in efficient data management and problem-solving.
 
